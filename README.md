@@ -10,13 +10,7 @@ This application is a software engineering team profile generator for the comman
 
  User will be prompted for their email, id, and specific information based on their role with the company. For instance, an intern may provide their school, whereas an engineer may provide their GitHub username.
 
- The app will generate a team page that displays a nicely formatted team roster. The following information will be displayed for each team member: Name, Role, ID, and a role-specific property such as School, link to GitHub profile, or office number.
+ The following information will be displayed for each team member: Name, Role, ID, and a role-specific property such as School, link to GitHub profile, or office number.
 
 
 
-# Screenshot of and link to app
-
-
-
-
-# Sources
