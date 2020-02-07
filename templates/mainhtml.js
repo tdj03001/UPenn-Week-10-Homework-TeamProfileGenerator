@@ -22,3 +22,5 @@ function generateMainHTML(data) {
 
 </html>`;
 }
+
+module.exports = generateMainHTML;
