@@ -8,7 +8,7 @@ This application is a software engineering team profile generator for the comman
 
 # Usage
 
- User will be prompted for their email, id, and specific information based on their role with the company. For instance, an intern may provide their school, whereas an engineer may provide their GitHub username.
+ User initiates the app in the CLI using command "node app.js." User will be prompted for their email, id, and specific information based on their role with the company. For instance, an intern may provide their school, whereas an engineer may provide their GitHub username.
 
  The following information will be displayed for each team member: Name, Role, ID, and a role-specific property such as School, link to GitHub profile, or office number.
 
