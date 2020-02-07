@@ -1,7 +1,14 @@
+/*mainhtml.js*/
 .heading {
   background-color: rgba(255, 0, 0, 0.685);
   color: white;
   text-align: center;
   font-size: xx-large;
   padding: 3%;
+}
+
+/*managerhtml.js*/
+.card-header{
+  background-color: rgba(9, 9, 248, 0.815);
+  color: white;
 }
