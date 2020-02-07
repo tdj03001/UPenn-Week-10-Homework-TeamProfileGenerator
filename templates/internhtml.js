@@ -35,3 +35,5 @@ function generateInternHTML(data) {
 
 </html>`;
 }
+
+module.exports = generateInternHTML;
