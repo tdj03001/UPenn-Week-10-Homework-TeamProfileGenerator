@@ -35,3 +35,5 @@ function generateManagerHTML(data) {
 
 </html>`;
 }
+
+module.exports = generateManagerHTML;
