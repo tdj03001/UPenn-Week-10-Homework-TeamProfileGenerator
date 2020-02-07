@@ -35,3 +35,4 @@ function generateEngineerHTML(data) {
 
 </html>`;
 }
+module.exports = generateEngineerHTML;
