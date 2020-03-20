@@ -1,31 +1,29 @@
 {
-  "name": "unit10hw",
+  "name": "upenn-week-10-homework-teamprofilegenerator",
   "version": "1.0.0",
-  "description": "OOP and testing for week 10 homework",
+  "description": "This application is a software engineering team profile generator for the commane line. Its intended user audience is development team managers. The application will prompt the user for information about the team manager and then for information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.",
   "main": "app.js",
   "directories": {
     "lib": "lib",
     "test": "test"
   },
+  "dependencies": {
+    "core-util-is": "^1.0.2",
+    "inquirer": "^7.1.0",
+    "open": "^7.0.2"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "jest --verbose test/*"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stevetrilogy/unit10hw.git"
+    "url": "git+https://github.com/tdj03001/UPenn-Week-10-Homework-TeamProfileGenerator.git"
   },
-  "author": "",
+  "author": "Tyler Jenkins",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stevetrilogy/unit10hw/issues"
+    "url": "https://github.com/tdj03001/UPenn-Week-10-Homework-TeamProfileGenerator/issues"
   },
-  "homepage": "https://github.com/stevetrilogy/unit10hw#readme",
-  "dependencies": {
-    "core-util-is": "^1.0.2",
-    "inquirer": "^6.3.1",
-    "open": "^7.0.2"
-  },
-  "devDependencies": {
-    "jest": "^24.8.0"
-  }
+  "homepage": "https://github.com/tdj03001/UPenn-Week-10-Homework-TeamProfileGenerator#readme"
 }
